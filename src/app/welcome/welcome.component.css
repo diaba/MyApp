@@ -1,0 +1,52 @@
+.shadow {
+    text-shadow: 3px 3px 3px 2px rgba(150, 150, 150, 1);
+}
+
+.logo-styles {
+    width: 50px;
+    font-size: 50px;
+    color: #ff0080;
+}
+.panel-heading{
+    background-color: #3aa046;
+    padding: 7px;
+    color:white;
+}
+
+.container-styles{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 200px;
+    position: relative;
+}
+.panel{
+    width: 70%;
+    max-width: 400px;
+}
+.panel-primary{
+    border: 1px solid #33b773;
+    min-height: 150px;
+}
+.title-styles {
+    text-align: center;
+    color: #0000ff;
+    font-size: 40px;
+}
+.text-center{
+    text-align: center;
+}
+.glyphicon-shopping-cart{
+
+    background-image: url(../../assets/imgs/apple_ipad_mini.jpg)
+}
+.glyphicon{
+    background-position:center ;
+    background-size: 20px;
+}
+
+.text-styles {
+    color: #337ab7;
+    font-size: 15px;
+}
+
